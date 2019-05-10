@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This project is part of assignment provided by the course  Community Starter Kit on https://lab.github.com/
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This gives step by step introduction to github workflow for contributing in open source codebase by providing simple assignments.
 
 ## Getting started
 
